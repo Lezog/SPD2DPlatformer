@@ -4,7 +4,7 @@ using UnityEngine;
 public class BossEnemy : MonoBehaviour
 {
     [Header("Stats")]
-    [SerializeField] private int maxHealth = 300;
+    [SerializeField] private int maxHealth = 400;
     [SerializeField] private int currentHealth;
     [SerializeField] private float attackWindup = 0.25f;
     [SerializeField] private float attackRecovery = 0.8f;
