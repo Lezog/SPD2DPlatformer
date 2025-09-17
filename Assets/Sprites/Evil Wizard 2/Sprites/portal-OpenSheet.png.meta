@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 3404a368b7642cb41a47028df4daf789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6849180011694841177
+    second: portal-OpenSheet_0
+  - first:
+      213: 2735415682923273493
+    second: portal-OpenSheet_1
+  - first:
+      213: 5060457602217406156
+    second: portal-OpenSheet_2
+  - first:
+      213: 5796453363204462170
+    second: portal-OpenSheet_3
+  - first:
+      213: -5536587384945143679
+    second: portal-OpenSheet_4
+  - first:
+      213: -5460477746866693247
+    second: portal-OpenSheet_5
+  - first:
+      213: -213981971706824886
+    second: portal-OpenSheet_6
+  - first:
+      213: 2220199436393874714
+    second: portal-OpenSheet_7
+  - first:
+      213: -5845604933856240808
+    second: portal-OpenSheet_8
+  - first:
+      213: 7764515075941262376
+    second: portal-OpenSheet_9
+  - first:
+      213: -2734370113868938063
+    second: portal-OpenSheet_10
+  - first:
+      213: -8154092656456941734
+    second: portal-OpenSheet_11
+  - first:
+      213: 6853440995750611339
+    second: portal-OpenSheet_12
+  - first:
+      213: -3763306680110508595
+    second: portal-OpenSheet_13
+  - first:
+      213: 8476580408002845603
+    second: portal-OpenSheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal-OpenSheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd6cf9eec2d0f50800000000000000
+      internalID: 6849180011694841177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d9cad121626f520800000000000000
+      internalID: 2735415682923273493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 34
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccee715b06b5a3640800000000000000
+      internalID: 5060457602217406156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 8
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a569be67f93217050800000000000000
+      internalID: 5796453363204462170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809f648b171a23b0800000000000000
+      internalID: -5536587384945143679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bd51a8b6c7834b0800000000000000
+      internalID: -5460477746866693247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b31cc788c70df0800000000000000
+      internalID: -213981971706824886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 37
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1587c0df9bbfce10800000000000000
+      internalID: 2220199436393874714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b5a34b84d30eea0800000000000000
+      internalID: -5845604933856240808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 9
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e4aac25911cb60800000000000000
+      internalID: 7764515075941262376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4c5666ed09d0ad0800000000000000
+      internalID: -2734370113868938063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f33426ee7d6de80800000000000000
+      internalID: -8154092656456941734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8980d846405c1f50800000000000000
+      internalID: 6853440995750611339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59827638c06cbc0800000000000000
+      internalID: -3763306680110508595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-OpenSheet_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab9b0168fcd2a570800000000000000
+      internalID: 8476580408002845603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portal-OpenSheet_0: 6849180011694841177
+      portal-OpenSheet_1: 2735415682923273493
+      portal-OpenSheet_10: -2734370113868938063
+      portal-OpenSheet_11: -8154092656456941734
+      portal-OpenSheet_12: 6853440995750611339
+      portal-OpenSheet_13: -3763306680110508595
+      portal-OpenSheet_14: 8476580408002845603
+      portal-OpenSheet_2: 5060457602217406156
+      portal-OpenSheet_3: 5796453363204462170
+      portal-OpenSheet_4: -5536587384945143679
+      portal-OpenSheet_5: -5460477746866693247
+      portal-OpenSheet_6: -213981971706824886
+      portal-OpenSheet_7: 2220199436393874714
+      portal-OpenSheet_8: -5845604933856240808
+      portal-OpenSheet_9: 7764515075941262376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
